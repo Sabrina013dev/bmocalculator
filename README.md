@@ -26,7 +26,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-l
 
 MIT License
 
-Copyright (c) [2024] [Sabrina dos Santos Oliveira]
+Copyright (c) 2024. Sabrina dos Santos Oliveira.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,5 +48,5 @@ SOFTWARE.
 
 
 ---
-Criado com ❤️ por [Sabrina OLiveira]
+Criado com ❤️ por Sabrina OLiveira.
 
